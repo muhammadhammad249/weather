@@ -58,7 +58,7 @@ function App() {
       </video>
 
 
-      <div className="video-overlay absolute inset-0 z-[1]" />
+      <div className="absolute inset-0 bg-black/30z-10 pointer-events-none" />
 
 
       <div className="glass-card relative text-white p-10 w-full max-w-xl z-10 animate-fade-in-up">
